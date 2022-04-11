@@ -1,2 +1,3 @@
 # WSCourseDen
-GHF WS Course Den
+GHF WS Course Den  
+Course 
